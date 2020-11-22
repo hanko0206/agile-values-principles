@@ -2,27 +2,30 @@
 
 ## Project setup
 ```
-npm install
+npm start install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm start build
 ```
 
-### Run your unit tests
+### Commented test for the purpose of dynamic ID, please change the ID data based on the DB available value
+
+### start your unit tests
 ```
-npm run test:unit
+npm start test:unit
+
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+npm start lint
 ```
 
 ### Customize configuration
